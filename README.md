@@ -1,2 +1,2 @@
-# LocacaoDeQuadras
-Uma simples aplicação em Java, que tem o propósito de Locar Quadras para utilização.
+# Court Rental
+Java App which has the purpose of Locating Courts for use
